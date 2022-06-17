@@ -1,0 +1,14 @@
+.divider {
+    width: 6em;
+    background: none;
+    height: 0;
+    background-color: transparent;
+    background-size: initial;
+    min-height: 0;
+    border-color: currentColor;
+    border-width: 1px;
+    border-top-style: dashed;
+    border-top-width: 5px;
+    color: rgba(209,34,42,1);
+    opacity: 100;
+}
